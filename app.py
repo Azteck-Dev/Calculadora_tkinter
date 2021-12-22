@@ -8,7 +8,7 @@ class Calculadora(Tk):
     def __init__(self):
         super().__init__()
         # Windows Layout
-        self.geometry("300x400")
+        self.geometry("300x400+500+150")
         self.title("Calculadora")
         self.iconbitmap("Calculator.ico")
         # ------------- Grid Layout -------------
@@ -117,7 +117,7 @@ E implementando el uso de la Programación Orientada a Objetos.
         \u00A9 2021-2022 Azteck-Dev
 """
         window_info = Tk()
-        window_info.geometry("550x250")
+        window_info.geometry("550x250+400+300")
         window_info.title("Acerca de Calculadora")
         window_info.iconbitmap("Calculator.ico")
         window_info.resizable(0, 0)
