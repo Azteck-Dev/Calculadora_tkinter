@@ -1,5 +1,6 @@
 from tkinter import Menu, Tk, ttk
 from operations import Calculator as cal
+from logger import log
 import tkinter as tk
 import sys
 
@@ -29,7 +30,7 @@ class Calculadora(Tk):
 
     def _display_calculator(self):
         # Botonera
-        self.display = ttk.Entry(self, justify=tk.RIGHT, font=22)
+        self.display = tk.Entry(self, justify=tk.RIGHT, font=('Fira Code',26, 'bold'))
         num_1 = ttk.Button(
             self, text="7", command=lambda: self.display.insert(tk.END, "7")
         )
@@ -163,5 +164,9 @@ E implementando el uso de la Programación Orientada a Objetos.
 
 
 if __name__ == "__main__":
-    calculadora = Calculadora()
-    calculadora.mainloop()
+    try:
+        calculadora = Calculadora()
+        log.info('Pass')
+        calculadora.mainloop()
+    except Exception as ex:
+        log.error(ex)

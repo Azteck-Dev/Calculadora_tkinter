@@ -1,0 +1,313 @@
+07:55:15-PM: ERROR [operations.py] <operaciones>: unexpected EOF while parsing (<string>, line 1)
+07:56:08-PM: ERROR [operations.py] <operaciones>: unexpected EOF while parsing (<string>, line 1)
+07:56:41-PM: ERROR [operations.py] <operaciones>: unexpected EOF while parsing (<string>, line 1)
+07:56:59-PM: ERROR [operations.py] <operaciones>: unexpected EOF while parsing (<string>, line 1)
+07:57:52-PM: ERROR [operations.py] <operaciones>: unexpected EOF while parsing (<string>, line 1)
+07:58:54-PM: ERROR [operations.py] <operaciones>: unexpected EOF while parsing (<string>, line 1)
+08:00:39-PM: ERROR [operations.py] <checking>: Operacion invalida
+08:00:39-PM: ERROR [operations.py] <checking>: Operacion invalida
+08:00:39-PM: ERROR [operations.py] <operaciones>: unexpected EOF while parsing (<string>, line 1)
+08:02:46-PM: ERROR [operations.py] <checking>: Operacion Invalida
+08:02:46-PM: ERROR [operations.py] <operaciones>: unexpected EOF while parsing (<string>, line 0)
+08:03:56-PM: ERROR [operations.py] <checking>: Operacion Invalida
+08:03:56-PM: ERROR [operations.py] <operaciones>: unexpected EOF while parsing (<string>, line 0)
+08:04:37-PM: ERROR [operations.py] <checking>: Operacion Invalida
+08:08:16-PM: INFO [operations.py] <checking>: True
+08:08:49-PM: INFO [operations.py] <checking>: False
+08:08:49-PM: ERROR [operations.py] <operaciones>: unexpected EOF while parsing (<string>, line 0)
+08:10:44-PM: ERROR [operations.py] <operaciones>: unexpected EOF while parsing (<string>, line 0)
+08:11:24-PM: ERROR [operations.py] <operaciones>: unexpected EOF while parsing (<string>, line 0)
+08:15:22-PM: INFO [operations.py] <checking>: False
+08:15:22-PM: ERROR [operations.py] <operaciones>: Operacion Invalida
+08:15:40-PM: INFO [operations.py] <checking>: False
+08:15:40-PM: ERROR [operations.py] <operaciones>: Operacion Invalida
+08:16:02-PM: INFO [operations.py] <checking>: False
+08:16:02-PM: ERROR [operations.py] <operaciones>: Operacion Invalida
+08:16:06-PM: INFO [operations.py] <checking>: True
+08:19:34-PM: INFO [operations.py] <checking>: True
+08:22:20-PM: INFO [app.py] <<module>>: Pass
+08:22:22-PM: INFO [app.py] <<module>>: Pass
+08:22:36-PM: INFO [operations.py] <checking>: True
+08:22:39-PM: INFO [operations.py] <checking>: True
+08:22:39-PM: ERROR [operations.py] <operaciones>: math domain error
+08:22:55-PM: INFO [app.py] <<module>>: Pass
+08:22:59-PM: INFO [operations.py] <checking>: True
+08:22:59-PM: ERROR [operations.py] <operaciones>: math domain error
+08:23:05-PM: INFO [operations.py] <checking>: True
+08:24:31-PM: INFO [operations.py] <checking>: []
+08:24:31-PM: INFO [operations.py] <checking>: False
+08:24:31-PM: ERROR [operations.py] <operaciones>: Operacion Invalida
+08:24:48-PM: INFO [operations.py] <checking>: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+08:24:48-PM: INFO [operations.py] <checking>: False
+08:24:48-PM: ERROR [operations.py] <operaciones>: Operacion Invalida
+08:25:30-PM: INFO [operations.py] <checking>: [-10, -9, -8, -7, -6, -5, -4, -3, -2, -1]
+08:25:30-PM: INFO [operations.py] <checking>: False
+08:25:30-PM: ERROR [operations.py] <operaciones>: Operacion Invalida
+08:25:41-PM: INFO [operations.py] <checking>: [-10, -9, -8, -7, -6, -5, -4, -3, -2]
+08:25:41-PM: INFO [operations.py] <checking>: False
+08:25:41-PM: ERROR [operations.py] <operaciones>: Operacion Invalida
+08:25:57-PM: INFO [operations.py] <checking>: [-9, -8, -7, -6, -5, -4, -3, -2, -1, 0]
+08:25:57-PM: INFO [operations.py] <checking>: False
+08:25:57-PM: ERROR [operations.py] <operaciones>: Operacion Invalida
+08:26:43-PM: INFO [app.py] <<module>>: Pass
+08:26:46-PM: INFO [operations.py] <checking>: True
+08:26:46-PM: ERROR [operations.py] <operaciones>: math domain error
+08:27:21-PM: INFO [operations.py] <checking>: True
+08:28:15-PM: INFO [operations.py] <checking>: False
+08:28:15-PM: ERROR [operations.py] <operaciones>: Operacion Invalida
+08:28:42-PM: INFO [operations.py] <checking>: False
+08:28:42-PM: ERROR [operations.py] <operaciones>: Operacion Invalida
+08:28:54-PM: INFO [app.py] <<module>>: Pass
+08:28:57-PM: INFO [operations.py] <checking>: False
+08:28:57-PM: ERROR [operations.py] <operaciones>: Operacion Invalida
+08:29:06-PM: INFO [operations.py] <checking>: False
+08:29:06-PM: ERROR [operations.py] <operaciones>: Operacion Invalida
+08:29:11-PM: INFO [operations.py] <checking>: False
+08:29:11-PM: ERROR [operations.py] <operaciones>: Operacion Invalida
+08:29:18-PM: INFO [operations.py] <checking>: False
+08:29:18-PM: ERROR [operations.py] <operaciones>: Operacion Invalida
+08:31:43-PM: INFO [app.py] <<module>>: Pass
+08:31:45-PM: INFO [operations.py] <checking>: False
+08:31:45-PM: ERROR [operations.py] <operaciones>: Operacion Invalida
+08:32:00-PM: INFO [operations.py] <checking>: False
+08:32:00-PM: ERROR [operations.py] <operaciones>: Operacion Invalida
+08:32:03-PM: INFO [operations.py] <checking>: False
+08:32:03-PM: ERROR [operations.py] <operaciones>: Operacion Invalida
+08:32:12-PM: INFO [app.py] <<module>>: Pass
+08:32:14-PM: INFO [operations.py] <checking>: True
+08:34:10-PM: INFO [operations.py] <checking>: -*
+08:34:10-PM: INFO [operations.py] <checking>: -*
+08:34:10-PM: INFO [operations.py] <checking>: -*
+08:34:10-PM: INFO [operations.py] <checking>: False
+08:34:10-PM: ERROR [operations.py] <operaciones>: Operacion Invalida
+08:35:11-PM: INFO [app.py] <<module>>: Pass
+08:35:17-PM: INFO [operations.py] <checking>: √-
+08:35:17-PM: INFO [operations.py] <checking>: √-
+08:35:17-PM: INFO [operations.py] <checking>: √-
+08:35:17-PM: INFO [operations.py] <checking>: √-
+08:35:17-PM: INFO [operations.py] <checking>: True
+08:35:17-PM: ERROR [operations.py] <operaciones>: math domain error
+08:35:48-PM: INFO [app.py] <<module>>: Pass
+08:35:56-PM: INFO [operations.py] <checking>: √-
+08:35:56-PM: INFO [operations.py] <checking>: √-
+08:35:56-PM: INFO [operations.py] <checking>: √-
+08:35:56-PM: INFO [operations.py] <checking>: √-
+08:35:56-PM: INFO [operations.py] <checking>: √-
+08:35:56-PM: INFO [operations.py] <checking>: True
+08:35:56-PM: ERROR [operations.py] <operaciones>: math domain error
+08:36:20-PM: INFO [operations.py] <checking>: √-
+08:36:20-PM: INFO [operations.py] <checking>: √-
+08:36:20-PM: INFO [operations.py] <checking>: √-
+08:36:20-PM: INFO [operations.py] <checking>: True
+08:36:20-PM: ERROR [operations.py] <operaciones>: math domain error
+08:36:35-PM: INFO [app.py] <<module>>: Pass
+08:36:40-PM: INFO [operations.py] <checking>: √-9
+08:36:40-PM: INFO [operations.py] <checking>: √-9
+08:36:40-PM: INFO [operations.py] <checking>: √-9
+08:36:40-PM: INFO [operations.py] <checking>: True
+08:36:40-PM: ERROR [operations.py] <operaciones>: math domain error
+08:42:49-PM: INFO [app.py] <<module>>: Pass
+08:42:55-PM: INFO [operations.py] <checking>: √-9
+08:42:55-PM: INFO [operations.py] <checking>: True
+08:42:55-PM: ERROR [operations.py] <operaciones>: math domain error
+08:43:49-PM: INFO [app.py] <<module>>: Pass
+08:44:01-PM: INFO [operations.py] <checking>: √-9
+08:44:01-PM: INFO [operations.py] <checking>: True
+08:44:01-PM: INFO [operations.py] <checking>: √
+08:44:01-PM: ERROR [operations.py] <operaciones>: math domain error
+08:44:39-PM: INFO [app.py] <<module>>: Pass
+08:44:46-PM: INFO [operations.py] <checking>: √-9
+08:44:46-PM: INFO [operations.py] <checking>: True
+08:44:46-PM: INFO [operations.py] <checking>: ['', '-99']
+08:44:46-PM: ERROR [operations.py] <operaciones>: math domain error
+08:45:25-PM: INFO [operations.py] <checking>: -*/
+08:45:25-PM: INFO [operations.py] <checking>: True
+08:45:49-PM: INFO [app.py] <<module>>: Pass
+08:45:51-PM: INFO [operations.py] <checking>: x-
+08:45:51-PM: INFO [operations.py] <checking>: True
+08:46:05-PM: INFO [operations.py] <checking>: 99-
+08:46:05-PM: INFO [operations.py] <checking>: True
+08:47:14-PM: INFO [operations.py] <checking>: -*/
+08:47:14-PM: INFO [operations.py] <checking>: True
+08:47:47-PM: INFO [operations.py] <checking>: -*/
+08:47:47-PM: INFO [operations.py] <checking>: True
+08:47:47-PM: ERROR [operations.py] <operaciones>: invalid syntax (<string>, line 1)
+08:51:42-PM: INFO [app.py] <<module>>: Pass
+08:51:46-PM: INFO [operations.py] <checking>: √99
+08:51:46-PM: INFO [operations.py] <checking>: True
+08:51:46-PM: INFO [operations.py] <checking>: ['', '99']
+08:52:42-PM: INFO [app.py] <<module>>: Pass
+08:52:46-PM: INFO [operations.py] <checking>: √-9
+08:52:46-PM: INFO [operations.py] <checking>: True
+08:52:46-PM: INFO [operations.py] <checking>: ['', '-99']
+08:52:50-PM: INFO [operations.py] <checking>: 9x9
+08:52:50-PM: INFO [operations.py] <checking>: True
+08:52:56-PM: INFO [operations.py] <checking>: 9x9
+08:52:56-PM: INFO [operations.py] <checking>: True
+08:53:01-PM: INFO [operations.py] <checking>: √-9
+08:53:01-PM: INFO [operations.py] <checking>: True
+08:53:01-PM: INFO [operations.py] <checking>: ['', '-9999']
+08:53:11-PM: INFO [operations.py] <checking>: 58÷
+08:53:11-PM: INFO [operations.py] <checking>: True
+08:55:14-PM: INFO [operations.py] <checking>: -*/
+08:55:14-PM: INFO [operations.py] <checking>: Operacion Valida: True
+08:55:14-PM: ERROR [operations.py] <operaciones>: invalid syntax (<string>, line 1)
+08:55:32-PM: INFO [app.py] <<module>>: Pass
+08:55:34-PM: INFO [operations.py] <checking>: x-
+08:55:34-PM: INFO [operations.py] <checking>: Operacion Valida: True
+08:55:34-PM: ERROR [operations.py] <operaciones>: invalid syntax (<string>, line 1)
+08:55:46-PM: INFO [operations.py] <checking>: x-+
+08:55:46-PM: INFO [operations.py] <checking>: Operacion Valida: True
+08:55:46-PM: ERROR [operations.py] <operaciones>: invalid syntax (<string>, line 1)
+08:57:20-PM: INFO [app.py] <<module>>: Pass
+08:57:26-PM: INFO [operations.py] <checking>: √-9
+08:57:26-PM: INFO [operations.py] <checking>: [
+08:57:26-PM: INFO [operations.py] <checking>: -
+08:57:26-PM: INFO [operations.py] <checking>: 9
+08:57:26-PM: INFO [operations.py] <checking>: ,
+08:57:26-PM: INFO [operations.py] <checking>:  
+08:57:26-PM: INFO [operations.py] <checking>: -
+08:57:26-PM: INFO [operations.py] <checking>: 8
+08:57:26-PM: INFO [operations.py] <checking>: ,
+08:57:26-PM: INFO [operations.py] <checking>:  
+08:57:26-PM: INFO [operations.py] <checking>: -
+08:57:26-PM: INFO [operations.py] <checking>: 7
+08:57:26-PM: INFO [operations.py] <checking>: ,
+08:57:26-PM: INFO [operations.py] <checking>:  
+08:57:26-PM: INFO [operations.py] <checking>: -
+08:57:26-PM: INFO [operations.py] <checking>: 6
+08:57:26-PM: INFO [operations.py] <checking>: ,
+08:57:26-PM: INFO [operations.py] <checking>:  
+08:57:26-PM: INFO [operations.py] <checking>: -
+08:57:26-PM: INFO [operations.py] <checking>: 5
+08:57:26-PM: INFO [operations.py] <checking>: ,
+08:57:26-PM: INFO [operations.py] <checking>:  
+08:57:26-PM: INFO [operations.py] <checking>: -
+08:57:26-PM: INFO [operations.py] <checking>: 4
+08:57:26-PM: INFO [operations.py] <checking>: ,
+08:57:26-PM: INFO [operations.py] <checking>:  
+08:57:26-PM: INFO [operations.py] <checking>: -
+08:57:26-PM: INFO [operations.py] <checking>: 3
+08:57:26-PM: INFO [operations.py] <checking>: ,
+08:57:26-PM: INFO [operations.py] <checking>:  
+08:57:26-PM: INFO [operations.py] <checking>: -
+08:57:26-PM: INFO [operations.py] <checking>: 2
+08:57:26-PM: INFO [operations.py] <checking>: ,
+08:57:26-PM: INFO [operations.py] <checking>:  
+08:57:26-PM: INFO [operations.py] <checking>: -
+08:57:26-PM: INFO [operations.py] <checking>: 1
+08:57:26-PM: INFO [operations.py] <checking>: ,
+08:57:26-PM: INFO [operations.py] <checking>:  
+08:57:26-PM: INFO [operations.py] <checking>: 0
+08:57:26-PM: INFO [operations.py] <checking>: ]
+08:57:26-PM: INFO [operations.py] <checking>: Operacion Valida: True
+08:57:26-PM: INFO [operations.py] <checking>: ['', '-99']
+08:58:12-PM: INFO [app.py] <<module>>: Pass
+08:58:17-PM: INFO [operations.py] <checking>: √-9
+08:58:17-PM: INFO [operations.py] <checking>: Operacion Valida: True
+08:58:17-PM: INFO [operations.py] <checking>: ['', '-99']
+08:58:52-PM: INFO [app.py] <<module>>: Pass
+08:59:02-PM: INFO [operations.py] <checking>: √-9
+08:59:02-PM: INFO [operations.py] <checking>: Operacion Valida: True
+08:59:02-PM: INFO [operations.py] <checking>: ['', '-99']
+08:59:31-PM: INFO [app.py] <<module>>: Pass
+08:59:35-PM: INFO [operations.py] <checking>: --
+08:59:35-PM: INFO [operations.py] <checking>: Operacion Valida: True
+08:59:35-PM: ERROR [operations.py] <operaciones>: unexpected EOF while parsing (<string>, line 1)
+08:59:42-PM: INFO [operations.py] <checking>: --
+08:59:42-PM: INFO [operations.py] <checking>: Operacion Valida: True
+08:59:42-PM: ERROR [operations.py] <operaciones>: unexpected EOF while parsing (<string>, line 1)
+09:00:07-PM: INFO [app.py] <<module>>: Pass
+09:00:12-PM: INFO [operations.py] <checking>: √-9
+09:00:12-PM: INFO [operations.py] <checking>: Operacion Valida: True
+09:00:12-PM: INFO [operations.py] <checking>: ['', '-99']
+09:01:31-PM: INFO [app.py] <<module>>: Pass
+09:01:37-PM: INFO [operations.py] <checking>: √-9
+09:01:37-PM: INFO [operations.py] <checking>: Operacion Valida: True
+09:01:37-PM: INFO [operations.py] <checking>: ['', '-99']
+09:01:50-PM: INFO [operations.py] <checking>: x-
+09:01:50-PM: INFO [operations.py] <checking>: Operacion Valida: True
+09:01:50-PM: ERROR [operations.py] <operaciones>: invalid syntax (<string>, line 1)
+09:02:01-PM: INFO [operations.py] <checking>: e+x
+09:02:01-PM: INFO [operations.py] <checking>: Operacion Valida: True
+09:02:01-PM: ERROR [operations.py] <operaciones>: invalid syntax (<string>, line 1)
+09:02:30-PM: INFO [app.py] <<module>>: Pass
+09:02:35-PM: INFO [operations.py] <checking>: √-9
+09:02:35-PM: INFO [operations.py] <checking>: -9
+09:02:35-PM: INFO [operations.py] <checking>: -8
+09:02:35-PM: INFO [operations.py] <checking>: -7
+09:02:35-PM: INFO [operations.py] <checking>: -6
+09:02:35-PM: INFO [operations.py] <checking>: -5
+09:02:35-PM: INFO [operations.py] <checking>: -4
+09:02:35-PM: INFO [operations.py] <checking>: -3
+09:02:35-PM: INFO [operations.py] <checking>: -2
+09:02:35-PM: INFO [operations.py] <checking>: -1
+09:02:35-PM: INFO [operations.py] <checking>: 0
+09:02:35-PM: INFO [operations.py] <checking>: Operacion Valida: True
+09:02:35-PM: INFO [operations.py] <checking>: ['', '-99']
+09:03:07-PM: INFO [operations.py] <checking>: -*/
+09:03:07-PM: INFO [operations.py] <checking>: -9
+09:03:07-PM: INFO [operations.py] <checking>: -8
+09:03:07-PM: INFO [operations.py] <checking>: -7
+09:03:07-PM: INFO [operations.py] <checking>: -6
+09:03:07-PM: INFO [operations.py] <checking>: -5
+09:03:07-PM: INFO [operations.py] <checking>: -4
+09:03:07-PM: INFO [operations.py] <checking>: -3
+09:03:07-PM: INFO [operations.py] <checking>: -2
+09:03:07-PM: INFO [operations.py] <checking>: -1
+09:03:07-PM: INFO [operations.py] <checking>: 0
+09:03:07-PM: INFO [operations.py] <checking>: Operacion Valida: True
+09:03:07-PM: ERROR [operations.py] <operaciones>: invalid syntax (<string>, line 1)
+09:03:22-PM: INFO [app.py] <<module>>: Pass
+09:03:28-PM: INFO [operations.py] <checking>: √-9
+09:03:28-PM: INFO [operations.py] <checking>: -9
+09:03:28-PM: INFO [operations.py] <checking>: -8
+09:03:28-PM: INFO [operations.py] <checking>: -7
+09:03:28-PM: INFO [operations.py] <checking>: -6
+09:03:28-PM: INFO [operations.py] <checking>: -5
+09:03:28-PM: INFO [operations.py] <checking>: -4
+09:03:28-PM: INFO [operations.py] <checking>: -3
+09:03:28-PM: INFO [operations.py] <checking>: -2
+09:03:28-PM: INFO [operations.py] <checking>: -1
+09:03:28-PM: INFO [operations.py] <checking>: 0
+09:03:28-PM: INFO [operations.py] <checking>: Operacion Valida: True
+09:03:28-PM: INFO [operations.py] <checking>: ['', '-99']
+09:03:45-PM: INFO [operations.py] <checking>: -x+
+09:03:45-PM: INFO [operations.py] <checking>: -9
+09:03:45-PM: INFO [operations.py] <checking>: -8
+09:03:45-PM: INFO [operations.py] <checking>: -7
+09:03:45-PM: INFO [operations.py] <checking>: -6
+09:03:45-PM: INFO [operations.py] <checking>: -5
+09:03:45-PM: INFO [operations.py] <checking>: -4
+09:03:45-PM: INFO [operations.py] <checking>: -3
+09:03:45-PM: INFO [operations.py] <checking>: -2
+09:03:45-PM: INFO [operations.py] <checking>: -1
+09:03:45-PM: INFO [operations.py] <checking>: 0
+09:03:45-PM: INFO [operations.py] <checking>: Operacion Valida: True
+09:03:45-PM: ERROR [operations.py] <operaciones>: invalid syntax (<string>, line 1)
+09:05:07-PM: INFO [app.py] <<module>>: Pass
+09:05:11-PM: INFO [operations.py] <checking>: 99-
+09:05:11-PM: INFO [operations.py] <checking>: -9
+09:05:11-PM: INFO [operations.py] <checking>: -8
+09:05:11-PM: INFO [operations.py] <checking>: -7
+09:05:11-PM: INFO [operations.py] <checking>: -6
+09:05:11-PM: INFO [operations.py] <checking>: -5
+09:05:11-PM: INFO [operations.py] <checking>: -4
+09:05:11-PM: INFO [operations.py] <checking>: -3
+09:05:11-PM: INFO [operations.py] <checking>: -2
+09:05:11-PM: INFO [operations.py] <checking>: -1
+09:05:11-PM: INFO [operations.py] <checking>: 0
+09:05:11-PM: INFO [operations.py] <checking>: Pass: True
+09:05:11-PM: ERROR [operations.py] <operaciones>: unexpected EOF while parsing (<string>, line 1)
+09:05:16-PM: INFO [operations.py] <checking>: 69x
+09:05:16-PM: INFO [operations.py] <checking>: -9
+09:05:16-PM: INFO [operations.py] <checking>: -8
+09:05:16-PM: INFO [operations.py] <checking>: -7
+09:05:16-PM: INFO [operations.py] <checking>: -6
+09:05:16-PM: INFO [operations.py] <checking>: -5
+09:05:16-PM: INFO [operations.py] <checking>: -4
+09:05:16-PM: INFO [operations.py] <checking>: -3
+09:05:16-PM: INFO [operations.py] <checking>: -2
+09:05:16-PM: INFO [operations.py] <checking>: -1
+09:05:16-PM: INFO [operations.py] <checking>: 0
+09:05:16-PM: INFO [operations.py] <checking>: Pass: True
