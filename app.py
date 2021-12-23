@@ -1,4 +1,3 @@
-from distutils.log import info
 from tkinter import Menu, Tk, ttk
 from operations import Calculator as cal
 from logger import log
@@ -6,19 +5,47 @@ import tkinter as tk
 import sys
 
 class InfoApp(Tk):
-    def __init__(self, mensaje:str):
+    default_msn = '''Calculadora Creada para practicar el uso del modulo tkinter de python.
+E implementando el uso de la Programación Orientada a Objetos.
+
+        Version: 1.1.0
+        Python Version : 3.10
+        Made With \u2665 & Tkinter
+        \u00A9 2021-2022 Azteck-Dev'''
+
+    def __init__(self, mensaje:str = None):
+        """InfoAPP 
+        Permite generar una ventana con un mensaje con informacion sobre la aplicacion, con
+        un mensaje predefinido.
+
+        Args:
+            mensaje (str, optional): Mensaje a mostrar en pantalla. Defaults to None.
+        """
         super().__init__()
         self._mensaje = mensaje
         self.geometry("550x250+400+300")
         self.title("Acerca de Calculadora")
         self.iconbitmap("Calculator.ico")
         self.resizable(0, 0)
-        self.info_win(self._mensaje)
+        self.check()
+        self.info_win()
 
-    def info_win(self, mensaje:str):
+    @property
+    def mensaje(self):
+        return self._mensaje
+
+    @mensaje.setter
+    def mensaje(self, new_mensaje:str):
+        self._mensaje = new_mensaje
+
+    def check(self):
+        if self.mensaje == None:
+            self.mensaje = InfoApp.default_msn
+
+    def info_win(self):
         logo = tk.PhotoImage(master=self, file="python_logo.png")
         logo_label = ttk.Button(self, image=logo, command= lambda: logo.cget('file'))
-        content = ttk.Label(self, font=16, text=mensaje, justify=tk.CENTER)
+        content = ttk.Label(self, font=16, text=self.mensaje, justify=tk.CENTER)
         logo_label.grid(row=0, column=0, pady=3)
         content.grid(row=1, column=0, padx=20)
 
@@ -96,16 +123,7 @@ class Calculadora(Tk):
 
     # -------------------- Menu funciones  --------------------#
     def _info_app(self):
-        mensaje = """
-Calculadora Creada para practicar el uso del modulo tkinter de python.
-E implementando el uso de la Programación Orientada a Objetos.
-
-        Version: 1.1.0
-        Python Version : 3.10
-        Made With \u2665 & Tkinter
-        \u00A9 2021-2022 Azteck-Dev
-"""
-        info = InfoApp(mensaje)
+        info = InfoApp()
         info.mainloop()
 
     def _main_menu(self):
@@ -146,7 +164,6 @@ E implementando el uso de la Programación Orientada a Objetos.
 if __name__ == "__main__":
     try:
         calculadora = Calculadora()
-        log.info('Pass')
         calculadora.mainloop()
     except Exception as ex:
         log.error(ex)
