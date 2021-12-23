@@ -7,7 +7,7 @@ if not os.path.exists('log/'):
 _FILE = 'log/cal_log.log'
 
 log.basicConfig(
-    level=log.DEBUG,
+    level=log.WARNING,
     format= "%(asctime)s: %(levelname)s [%(filename)s] <%(funcName)s>: %(message)s",
     datefmt='%I:%M:%S-%p',
     handlers= [
