@@ -22,6 +22,7 @@ E implementando el uso de la Programación Orientada a Objetos.
             mensaje (str, optional): Mensaje a mostrar en pantalla. Defaults to None.
         """
         super().__init__()
+        icon = r'C:\Users\mesas\OneDrive\Calculadora\Calculator.ico'
         self._mensaje = mensaje
         self.geometry("550x250+400+300")
         self.title("Acerca de Calculadora")
@@ -43,7 +44,7 @@ E implementando el uso de la Programación Orientada a Objetos.
             self.mensaje = InfoApp.default_msn
 
     def info_win(self):
-        logo = tk.PhotoImage(master=self, file="python_logo.png")
+        logo = tk.PhotoImage(master=self, file=r"C:\Users\mesas\OneDrive\Calculadora\python_logo.png")
         logo_label = ttk.Button(self, image=logo, command= lambda: logo.cget('file'))
         content = ttk.Label(self, font=16, text=self.mensaje, justify=tk.CENTER)
         logo_label.grid(row=0, column=0, pady=3)
@@ -53,10 +54,11 @@ class Calculadora(Tk):
     def __init__(self):
         super().__init__()
         # Windows Layout
+        icon = r'C:\Users\mesas\OneDrive\Calculadora\Calculator.ico'
         self.geometry("300x400+500+150")
         self.resizable(0,0)
         self.title("Calculadora")
-        self.iconbitmap("Calculator.ico")
+        self.iconbitmap(icon)
         # Lineas
         self.rowconfigure(0, weight=2)
         self.rowconfigure(1, weight=2)
