@@ -14,3 +14,5 @@ de Python 3.10 y se generó un exe con auto-py-to-exe.
 * Multiplicación
 * División
 * Raíz cuadrada
+
+![Calculadora](calculadora_gui.jpg)
